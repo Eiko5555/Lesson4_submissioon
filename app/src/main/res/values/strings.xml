@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="categoryEvent">Event</string>
+    <string name="categoryMuseum">Museum</string>
+    <string name="categoryRestaurant">Food</string>
+    <string name="categoryThemePark">Theme Park</string>
+
+    <string name="event1">New Years Rose Parade</string>
+    <string name="event1_info">Jenuary 1st at RoseBowl in Pasadena</string>
+    <string name="event2">Valentines Day</string>
+    <string name="event2_info">February 14th at any place</string>
+    <string name="event3">Dayight Saving Starting Day</string>
+    <string name="event3_info">March 13th In US </string>
+    <string name="event4">Tax Day</string>
+    <string name="event4_info">April 18th your nearest accountant or online</string>
+    <string name="event5">Mothers Day</string>
+    <string name="event5_info">May 8th Nearest flower or gift shop.</string>
+
+    <string name="museum1">LACMA</string>
+    <string name="museum1_info">5905 Wilsher Blvd, Los Angeles - (323)857-6146</string>
+    <string name="museum2">La Brea Tar Pits</string>
+    <string name="museum2_info">5801 Wilsher Blvd, Los Angeles - (323)857-6300</string>
+    <string name="museum3">Hummer Museum</string>
+    <string name="museum3_info">10899 Wilsher Blvd, Los Angeles - (310)443-7000</string>
+    <string name="museum4">MOCA</string>
+    <string name="museum4_info">250 S Grand Ave, Los Angeles - (213)621-2766</string>
+    <string name="museum5">Broad</string>
+    <string name="museum5_info">21 S Grand Ave, Los Angeles - (213)232-6200</string>
+
+
+    <string name="food1">Real Food Daily</string>
+    <string name="food1_info">414 La Cienega Blvd, Los Angeles - (310)289-9910</string>
+    <string name="food2">Veggie Grill</string>
+    <string name="food2_info">110 S Fairfax Ave, Los Angeles - (323)399-3997</string>
+    <string name="food3">Sage Organic Bistro</string>
+    <string name="food3_info">1700 Sunset Blvd, Los Angeles - (213)989-1718</string>
+    <string name="food4">Arayas Place</string>
+    <string name="food4_info">8101½ Beverly Blvd, Los Angeles - (323)900-0557</string>
+    <string name="food5">Cruzer Pizza </string>
+    <string name="food5_info">Address: 4449 Prospect Ave, Los Angeles - (323)900-0557</string>
+
+    <string name="theme_Park1">Dianeyland Resort</string>
+    <string name="theme_Park1_info">1313 Disneyland Dr, Anaheim - (714)781-4636</string>
+    <string name="theme_Park2">Lego Land</string>
+    <string name="theme_Park2_info">1 Legoland Dr, Carlsbad</string>
+    <string name="theme_Park3">Universal Studio Hollywood</string>
+    <string name="theme_Park3_info">100 Universal City Plaza, Universal City - (800)864-8377</string>
+    <string name="theme_Park4">Knotts Berry Farm</string>
+    <string name="theme_Park4_info"> 8039 Beach Blvd, Buena Park - (714)220-5200</string>
+    <string name="theme_Park5">Magic Mountain by Six Flags</string>
+    <string name="theme_Park5_info">26101 Magic Mountain Pkwy, Valencia -  (661)255-4100</string>
+
+</resources>
